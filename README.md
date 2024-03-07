@@ -50,6 +50,10 @@ Season 4, Episode 2 - Kaggle Playground Series
 ### Model Evaluation:
 - Evaluated model performance using accuracy score on the validation set.
 
+## 📝 Credits
+
+- [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e2/overview)
+- [Dataset Source](https://www.kaggle.com/competitions/playground-series-s4e2/data)
 
 ## 🚀 Usage
 1. Clone the repository:
@@ -57,7 +61,4 @@ Season 4, Episode 2 - Kaggle Playground Series
 ```bash
 git clone https://github.com/jha-nikita/Kaggle_Obesity-Classification
 
-## 📝 Credits
 
-- [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e2/overview)
-- [Dataset Source](https://www.kaggle.com/competitions/playground-series-s4e2/data)
